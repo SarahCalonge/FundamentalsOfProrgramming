@@ -7,4 +7,4 @@ public class Main {
         System.out.println( name1 );
         System.out.println( section1);
         System.out.println(name2);
-        System.out.println();
+        System.out.println(section2);
